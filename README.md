@@ -1,3 +1,3 @@
 # Welcome
 
-This repository contains all the assets for my website, <www.gavincornwell.co.uk>
+This repository contains all the assets for my website, www.gavincornwell.co.uk
